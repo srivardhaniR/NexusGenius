@@ -1,16 +1,6 @@
 # NexusGenius
 
-> An AI-powered educational platform with face authentication, liveness detection, smart note reading, chatbot assistance, and proctored MCQ exams — built for the next-gen learners and educators! 🚀📚
-
----
-
-##  Demo Preview
-
-![Face Login]("D:\my_projects\NexusGenius\ScreenShots\SS_student_login_demp.png")
-![Trainer Dashboard](D:\my_projects\NexusGenius\ScreenShots\Trainer_dashboard.png)
-![Student DashBoard](D:\my_projects\NexusGenius\ScreenShots\SS_student_dashboard.png)
-![ChatBot](D:\my_projects\NexusGenius\ScreenShots\SS_chatbot.png)
----
+> An AI-powered educational platform with face authentication, liveness detection, smart note reading, chatbot assistance, and proctored MCQ exams — built for the next-gen learners and educators! 
 
 ##  Features
 
